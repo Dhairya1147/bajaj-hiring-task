@@ -52,7 +52,7 @@ public class BajajTest implements CommandLineRunner {
             System.out.println("Got accessToken: " + accessToken);
 
 
-            //prepare Final SQL Query (Q1 from PDF 2)
+            //prepare Final SQL Query
 
             String finalQuery =
                     "SELECT P.AMOUNT AS SALARY, " +
