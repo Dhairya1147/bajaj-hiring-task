@@ -15,3 +15,6 @@ It performs:
 ### Build:
 ```bash
 mvn clean package
+or
+.\mvnw clean package -DskipTests
+
